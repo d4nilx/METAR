@@ -2,16 +2,6 @@
 
 A clean, modern .NET MAUI application that fetches and decodes real-time aviation weather reports (METAR) for any airport in the world using its ICAO code.
 
----
-
-## 📱 UI Preview
-
-![App in usage](Image/screen1.png)
-![App in usage](Image/screen2.png)
-![App in usage](Image/screen3.png)
-
----
-
 ## 🚀 Features
 
 - Search any airport by its 4-letter ICAO code (e.g. `EPWA`, `EGLL`, `KJFK`)
