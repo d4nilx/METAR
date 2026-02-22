@@ -6,7 +6,7 @@ namespace METAR.Services;
 public class WeatherService
 {
     private readonly HttpClient _httpClient;
-    private const string ApiKey = "d1f6956251bc4c28a77d9329394b829d";
+    private const string ApiKey = "API-KEY";
 
     public WeatherService()
     {
