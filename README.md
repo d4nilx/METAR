@@ -71,7 +71,7 @@ METAR/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/METAR.git
+   git clone https://github.com/d4nilx/METAR.git
    cd METAR
    ```
 
